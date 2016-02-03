@@ -1,5 +1,9 @@
 # The Coding Standards of Kiwi
 
+* Please use good const
+* Please use override
+* Please use final
+
 ### Indentation
 
 * The tabs should be replaced by 4 spaces.
